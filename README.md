@@ -16,9 +16,9 @@ pip install tensorflow keras numpy matplotlib
    
 Image classification is one of the fundamental problems in computer vision. In this project, we aim to classify images into two categories: dogs and cats. The project utilizes a Convolutional Neural Network (CNN), which is a type of deep learning model specifically designed for image data.
 The motivation for this project includes:
-1. Understanding CNN architecture: Building and training a CNN from scratch.
-2. Practical application: Classifying images into predefined categories (dogs and cats).
-3. Hands-on learning: Gaining experience with Keras and TensorFlow libraries for deep learning.
+- Understanding CNN architecture: Building and training a CNN from scratch.
+- Practical application: Classifying images into predefined categories (dogs and cats).
+- Hands-on learning: Gaining experience with Keras and TensorFlow libraries for deep learning.
    
 3. File Descriptions
    
