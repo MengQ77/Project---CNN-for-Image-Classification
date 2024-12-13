@@ -2,6 +2,7 @@
 https://medium.com/@mqi_71017/project-cnn-for-image-classification-d0b2d995cf0f
 
 1. Installations
+   
 To run this project, ensure you have the following libraries installed in your Python environment:
 - TensorFlow
 - Keras
